@@ -4,7 +4,7 @@ sms bomber pro irani 🇮🇷v1 with Go (Golang)
 
 <h3>views :</h3>
 <br>
-<img src="https://profile-counter.glitch.me/esfelurm/count.svg" alt="Visitors">
+<img src="https://profile-counter.glitch.me/3yed-61/count.svg" alt="Visitors">
 
 ## Number of web services 
 
@@ -38,7 +38,7 @@ sms bomber pro irani 🇮🇷v1 with Go (Golang)
 ## Run in Linux/Termux
 
 ```
-git clone https://github.com/esfelurm/iran-bomber
+git clone https://github.com/3yed-61/iran-bomber
 cd iran-bomber
 go run sms.go
 ```
