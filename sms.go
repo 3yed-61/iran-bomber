@@ -12,7 +12,7 @@ import (
 )
 
 /*
-Channel telegram : @3yed-61 or @Team_Exploit
+
 ===============================================
 Link Github : https://github.com/3yed-61
 ===============================================
