@@ -21,7 +21,7 @@ sms bomber pro irani 🇮🇷v1 with Go (Golang)
 
 ## screen shot
 
-<img src="screen/IMG_20230815_002517_499.png">
+<img src="screen/IMG_20230815_002517_49.png">
 
 ## prerequisite :
 
